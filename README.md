@@ -8,16 +8,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlisonNunesAraujo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlisonNunesAraujo&layout=compact&langs_count=6&theme=dracula" height="150"/>
-</div>
 
----
 
 ## 🧠 About Me
 - 💼 Mobile Developer (React Native)
-- 📦 Experience with **e-commerce & delivery apps**
+- 📦 Experience with **e-commerce & logistica apps**
 - 🧩 Integration with APIs, payments, geolocation and native features
 - 📚 Currently improving skills in **mobile architecture & native development**
 
