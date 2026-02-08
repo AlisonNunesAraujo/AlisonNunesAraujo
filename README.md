@@ -2,44 +2,56 @@
 
 <p align="left">
 📱 Mobile Developer focused on <strong>React Native</strong><br/>
-🚀 Building scalable apps for e-commerce, delivery and real-world products<br/>
+🚀 Building scalable mobile apps for e-commerce, logistics and real-world products<br/>
 🎯 Goal: Become a <strong>Mobile Software Engineer</strong>
 </p>
 
 ---
 
-
-
 ## 🧠 About Me
-- 💼 Mobile Developer (React Native)
-- 📦 Experience with **e-commerce & logistica apps**
+- 💼 Mobile Developer specialized in React Native
+- 📦 Experience with **e-commerce & logistics apps**
 - 🧩 Integration with APIs, payments, geolocation and native features
-- 📚 Currently improving skills in **mobile architecture & native development**
+- 🧱 Working with real production apps used by customers
+- 📚 Continuously improving skills in **mobile architecture & native development**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
-</div>
+### 📱 Mobile
+- React Native (CLI & Expo)
+- TypeScript & JavaScript
+- Android Native Modules
+- App lifecycle, permissions & device APIs
+
+### 🔌 Backend & APIs
+- REST API integration
+- Firebase (Auth, Firestore, Cloud Functions)
+- Node.js (backend basics & integrations)
+- Secure data handling & token-based authentication
+
+### 🧠 Mobile Architecture
+- Component-driven architecture
+- State management & data flow
+- Scalable folder structures
+- Error handling & edge cases
+
+### 🛠️ Tooling & Dev Experience
+- Git & GitHub (PRs, code reviews, versioning)
+- Debugging & performance profiling
+- Environment configs & build pipelines
+- Android & iOS build processes
 
 ---
 
 ## 📱 Mobile Skills
-- React Native (CLI / Expo)
-- API & Backend integration
-- Payments & Checkout flows
-- Geolocation & Maps
-- App performance & debugging
+- Development of **production-grade mobile applications**
+- Integration with complex APIs and third-party services
+- Geolocation, maps and real-time features
+- Performance optimization & memory management
+- Debugging crashes and edge-case issues
+- Collaboration with backend, product and design teams
 
 ---
 
