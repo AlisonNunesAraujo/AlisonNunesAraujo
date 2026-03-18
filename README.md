@@ -1,61 +1,68 @@
-<h2 align="left">👋 Hi! I'm Alison Araújo</h2>
+<h2 align="left">👋 Olá! Eu sou Alison Araújo</h2>
 
 <p align="left">
-📱 Mobile Developer focused on <strong>React Native</strong><br/>
-🚀 Building scalable mobile apps for e-commerce, logistics and real-world products<br/>
-🎯 Goal: Become a <strong>Mobile Software Engineer</strong>
+  📱 Desenvolvedor Mobile com foco em <strong>React Native</strong><br/>
+  🚀 Construindo apps mobile escaláveis para e-commerce, logística e produtos reais<br/>
+  🎯 Objetivo: me tornar um <strong>Engenheiro de Software Mobile</strong>
 </p>
 
 ---
 
-## 🧠 About Me
-- 💼 Mobile Developer specialized in React Native
-- 📦 Experience with **e-commerce & logistics apps**
-- 🧩 Integration with APIs, payments, geolocation and native features
-- 🧱 Working with real production apps used by customers
-- 📚 Continuously improving skills in **mobile architecture & native development**
+## 🧠 Sobre Mim
+
+- 💼 Desenvolvedor Mobile com foco em React Native & Swift
+- 📦 Experiência com **apps de e-commerce & logística**
+- 🧩 Integração com APIs, pagamentos, geolocalização e recursos nativos
+- 🧱 Atuando em apps reais em produção utilizados por clientes
+- 🤖 Desenvolvimento nativo com **Kotlin, Swift & Jetpack Compose**
+- 🔧 Experiência com **microsserviços** e arquiteturas distribuídas
+- 📚 Em constante evolução em **arquitetura mobile & desenvolvimento nativo**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Técnica
 
 ### 📱 Mobile
 - React Native (CLI & Expo)
 - TypeScript & JavaScript
-- Android Native Modules
-- App lifecycle, permissions & device APIs
+- Kotlin & Android Native Modules & Jetpack Compose
+- Swift (desenvolvimento iOS nativo)
+- Ciclo de vida do app, permissões & APIs do dispositivo
 
 ### 🔌 Backend & APIs
-- REST API integration
+- Integração com APIs REST
 - Firebase (Auth, Firestore, Cloud Functions)
-- Node.js (backend basics & integrations)
-- Secure data handling & token-based authentication
+- Node.js & NestJS (fundamentos de backend & integrações)
+- SQL (consultas, modelagem e integração com banco de dados)
+- Tratamento seguro de dados & autenticação baseada em tokens
 
-### 🧠 Mobile Architecture
-- Component-driven architecture
-- State management & data flow
-- Scalable folder structures
-- Error handling & edge cases
+### 🧠 Arquitetura Mobile
+- Arquitetura orientada a componentes
+- Microsserviços e arquiteturas distribuídas
+- Gerenciamento de estado & fluxo de dados
+- Estruturas de pastas escaláveis
+- Tratamento de erros & casos extremos
 
-### 🛠️ Tooling & Dev Experience
-- Git & GitHub (PRs, code reviews, versioning)
-- Debugging & performance profiling
-- Environment configs & build pipelines
-- Android & iOS build processes
-
----
-
-## 📱 Mobile Skills
-- Development of **production-grade mobile applications**
-- Integration with complex APIs and third-party services
-- Geolocation, maps and real-time features
-- Performance optimization & memory management
-- Debugging crashes and edge-case issues
-- Collaboration with backend, product and design teams
+### 🛠️ Ferramentas & Experiência de Desenvolvimento
+- Git & GitHub (PRs, code reviews, versionamento)
+- Debugging & profiling de performance
+- Configurações de ambiente & pipelines de build
+- Processos de build Android & iOS
 
 ---
 
-## 🌐 Connect with me
+## 📱 Habilidades Mobile
+
+- Desenvolvimento de **aplicações mobile de nível produção**
+- Integração com APIs complexas e serviços de terceiros
+- Geolocalização, mapas e funcionalidades em tempo real
+- Otimização de performance & gerenciamento de memória
+- Debugging de crashes e problemas de casos extremos
+- Colaboração com times de backend, produto e design
+
+---
+
+## 🌐 Conecte-se comigo
 
 <div align="left">
   <a href="https://www.instagram.com/alisonaraujo_dev/" target="_blank">
