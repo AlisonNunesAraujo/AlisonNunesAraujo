@@ -3,7 +3,7 @@
 <p align="left">
   📱 Desenvolvedor Mobile com foco em <strong>React Native</strong><br/>
   🚀 Construindo apps mobile escaláveis para e-commerce, logística e produtos reais<br/>
-  🎯 Objetivo: me tornar um <strong>Engenheiro de Software Mobile</strong>
+  🎯 Objetivo: me tornar um <strong>Engenheiro Mobile</strong>
 </p>
 
 ---
