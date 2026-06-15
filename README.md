@@ -23,7 +23,7 @@
 React Native (CLI & Expo) · TypeScript · Kotlin · Swift · Jetpack Compose · Módulos Nativos
 
 **Backend & APIs**
-Node.js · NestJS · Firebase (Auth, Firestore, Functions) · REST · SQL
+Java · Spring Boot · Node.js · NestJS · Firebase (Auth, Firestore, Functions) · REST · SQL
 
 **RPA & Automação**
 UiPath · Power Automate · Make · Zapier · Python
