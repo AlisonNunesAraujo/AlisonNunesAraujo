@@ -2,7 +2,7 @@
 
 <p align="left">
   Focado em <strong>React Native</strong>, <strong>Swift</strong> e <strong>RPA</strong>, construindo apps de produção e automatizando processos para e-commerce e logística.<br/>
-  Evoluindo para <strong>Engenheiro Mobile Sênior</strong>.
+ 
 </p>
 
 ---
