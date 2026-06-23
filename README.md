@@ -1,7 +1,7 @@
 <h2 align="left">Alison Araújo</h2>
 
 <p align="left">
-  Focado em <strong>React Native</strong>, <strong>Swift</strong>,<strong>Java</strong>,<strong>Spring-Boot</strong> e <strong>RPA</strong>, construindo apps de produção e automatizando processos.
+  Focado em <strong>React Native</strong>, <strong>Swift</strong>, <strong>Java</strong>, <strong>Spring-Boot</strong> e <strong>RPA</strong>, construindo apps de produção e automatizando processos.
  
 </p>
 
