@@ -26,7 +26,7 @@ React Native (CLI & Expo) · TypeScript · Kotlin · Swift · Jetpack Compose ·
 Java · Spring Boot · Node.js · NestJS · Firebase (Auth, Firestore, Functions) · REST · SQL
 
 **RPA & Automação**
-UiPath · Power Automate · Make · Zapier · Python
+Power Automate · Python
 
 **Ferramentas**
 Git & GitHub · CI/CD · EAS Build · Profiling de performance · Builds Android & iOS
