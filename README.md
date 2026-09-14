@@ -36,7 +36,7 @@ Git & GitHub · CI/CD · EAS Build · Profiling de performance · Builds Android
 ## RPA & Automação
 
 - Automação de processos repetitivos com robôs attended & unattended
-- Integração de RPA com IA — OCR, NLP e tomada de decisão automatizada
+- Integração de RPA com IA — tomada de decisão automatizada
 - Aplicações em finanças, logística, RH e e-commerce
 - Integrações entre sistemas via APIs e fluxos automatizados
 
