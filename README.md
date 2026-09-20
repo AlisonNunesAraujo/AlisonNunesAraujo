@@ -1,48 +1,48 @@
-<h2 align="left">Alison Araújo</h2>
+<h1 align="left">Alison Araújo 👋</h1>
 
 <p align="left">
-  Focado em <strong>React Native</strong>, <strong>Swift</strong>, <strong>Java</strong>, <strong>Spring-Boot</strong> e <strong>RPA</strong>, construindo apps de produção e automatizando processos.
- 
+  <strong>Mobile Developer</strong> com foco em <strong>React Native, Swift e Kotlin</strong>, atuando com aplicações em produção, integrações nativas, APIs, cloud e automação.
 </p>
 
 ---
 
-## Sobre
+## 🚀 Sobre
 
-- Apps em produção com usuários reais em e-commerce & logística
-- Experiência com APIs, pagamentos, geolocalização & módulos nativos
-- Desenvolvimento nativo com Kotlin, Swift & Jetpack Compose
-- Automação de processos com RPA & IA integrada
-- Microsserviços & arquiteturas distribuídas
+* 📱 Apps em produção nos segmentos de **e-commerce e logística**
+* 🔌 Integrações com **APIs, pagamentos, geolocalização e notificações**
+* 🧩 Desenvolvimento mobile com **React Native, Swift e Kotlin**
+* ⚙️ Backend com **Java, Spring Boot e NestJS**
+* ☁️ Interesse em **arquitetura, performance e cloud**
 
 ---
 
-## Stack técnica
+## 🛠️ Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,swift,kotlin,java,spring,nestjs,nextjs,nodejs,postgres,firebase,aws,azure,docker,git,github,python" />
+</p>
 
 **Mobile**
-React Native (CLI & Expo) · TypeScript · Kotlin · Swift · Jetpack Compose · Módulos Nativos
+React Native · Expo · Swift · SwiftUI · Kotlin · Jetpack Compose
 
-**Backend & APIs**
-Java · Spring Boot · Node.js · NestJS · Firebase (Auth, Firestore, Functions) · REST · SQL
+**Frontend**
+React.js · Next.js · TypeScript · JavaScript
 
-**RPA & Automação**
-Power Automate · Python
+**Backend**
+Java · Spring Boot · NestJS · Node.js · REST APIs
 
-**Ferramentas**
-Git & GitHub · CI/CD · EAS Build · Profiling de performance · Builds Android & iOS
+**Banco de dados e Cloud**
+PostgreSQL · Firebase · AWS · Azure
 
----
-
-## RPA & Automação
-
-- Automação de processos repetitivos com robôs attended & unattended
-- Integração de RPA com IA — tomada de decisão automatizada
-- Aplicações em finanças, logística, RH e e-commerce
-- Integrações entre sistemas via APIs e fluxos automatizados
+**Automação**
+Power Automate · Python (base)
 
 ---
 
-## Contato
+## ⚙️ Ferramentas e Infra
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisonaraújo/)
-
+* **Expo / EAS Build** — builds Android/iOS, OTA e distribuição
+* **Git / GitHub** — versionamento, branches e pull requests
+* **CI/CD** — automação de build, testes e deploy
+* **Docker** — ambientes e serviços backend
+* **Firebase** — autenticação, banco e
