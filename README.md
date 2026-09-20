@@ -45,4 +45,16 @@ Power Automate · Python (base)
 * **Git / GitHub** — versionamento, branches e pull requests
 * **CI/CD** — automação de build, testes e deploy
 * **Docker** — ambientes e serviços backend
-* **Firebase** — autenticação, banco e
+* **Firebase** — autenticação, banco e serviços mobile
+* **PostgreSQL** — persistência de dados
+* **AWS / Azure** — deploy e infraestrutura cloud
+* **Power Automate** — automação de processos e RPA
+* **Python (base)** — scripts e automações simples
+
+---
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/alisonaraújo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
